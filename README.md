@@ -9,7 +9,6 @@ This is a collection of notes and examples for learning Docker.
 - [Dockerfile](#dockerfile)
 - [Docker Images](#docker-images)
 - [Docker Containers](#docker-containers)
-- [Docker Daemon](#docker-daemon)
 - [Docker CLI](#docker-cli)
 - [Docker Compose](#docker-compose)
 
