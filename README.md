@@ -22,4 +22,5 @@ npm i express nodemon
 docker pull node
 docker build -t henriquecolef/learning-docker:1.0.0 .
 docker run -d -p 8080:3000 henriquecolef/learning-docker:1.0.0
+docker rmi -f 63d0541bb48f (delete image)
 -->
